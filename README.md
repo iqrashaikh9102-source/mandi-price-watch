@@ -2,7 +2,7 @@
 
 An interactive **Power BI** dashboard that explains how Indian crop prices behave: which crops are expensive, which are risky, and when prices usually move. It uses 19,680 monthly price records for 175 crops (Feb 2002 to Nov 2026) and turns them into KPIs, seasonal analysis, volatility analysis and procurement recommendations.
 
-![Page 1 – Mandi Price Analysis](image/page-1.png)
+![Page 1 – Mandi Price Analysis]
 
 ## Business problem
 
@@ -21,8 +21,8 @@ Agricultural prices swing with weather, arrivals and festivals. A buyer who only
 | **2. Seasonality and Volatility** | Seasonal selected vs previous year price, Price Volatility % by crop, Seasonal YoY % by season, seasonal price heatmap, volatility treemap, seasonal comparison |
 | **3. Executive Insights** | Highest Risk Crop, Market Leader Crop, Seasonal YoY % and Best Performing Season cards; risk vs price scatter; seasonal performance by category; dynamic market highlights; business recommendations |
 
-![Page 2 – Seasonality and Volatility](images/page-2.png)
-![Page 3 – Executive Insights](images/page-3.png)
+![Page 2 – Seasonality and Volatility]
+![Page 3 – Executive Insights]
 
 ## Dataset
 
