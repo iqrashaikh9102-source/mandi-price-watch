@@ -2,7 +2,7 @@
 
 An interactive **Power BI** dashboard that explains how Indian crop prices behave: which crops are expensive, which are risky, and when prices usually move. It uses 19,680 monthly price records for 175 crops (Feb 2002 to Nov 2026) and turns them into KPIs, seasonal analysis, volatility analysis and procurement recommendations.
 
-![Page 1 – Mandi Price Analysis](images/page-1.png)
+![Page 1 – Mandi Price Analysis](image/page-1.png)
 
 ## Business problem
 
